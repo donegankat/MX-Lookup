@@ -1,0 +1,11 @@
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\bin\Debug\netcoreapp2.0\appSettings.json
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\bin\Debug\netcoreapp2.0\MXLookup.deps.json
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\bin\Debug\netcoreapp2.0\MXLookup.runtimeconfig.json
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\bin\Debug\netcoreapp2.0\MXLookup.runtimeconfig.dev.json
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\bin\Debug\netcoreapp2.0\MXLookup.dll
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\bin\Debug\netcoreapp2.0\MXLookup.pdb
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\obj\Debug\netcoreapp2.0\MXLookup.csproj.CoreCompileInputs.cache
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\obj\Debug\netcoreapp2.0\MXLookup.AssemblyInfoInputs.cache
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\obj\Debug\netcoreapp2.0\MXLookup.AssemblyInfo.cs
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\obj\Debug\netcoreapp2.0\MXLookup.dll
+C:\Users\KDonegan\source\repos\MXLookup\MXLookup\obj\Debug\netcoreapp2.0\MXLookup.pdb
