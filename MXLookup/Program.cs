@@ -118,6 +118,12 @@ namespace MXLookup
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Performs an MX lookup on the provided email domain.
+        /// Reference: https://github.com/MichaCo/DnsClient.NET
+        /// </summary>
+        /// <param name="domain"></param>
+        /// <returns></returns>
         public static void PerformMxLookup(string domain)
         {
             try
